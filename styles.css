@@ -1,0 +1,92 @@
+body {
+    font-family:Arial, Helvetica, sans-serif sans-serif;
+    margin: 2;
+    padding: 2;
+    text-align:center;
+    background-color: aquamarine;
+  }
+  
+  header {
+    background-color: rgb(50, 158, 126)
+  ;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 80px;
+    margin: 25px;
+    margin-top: 20px;
+    color: #333;
+  }
+
+  h2 {
+    background-color: rgb(50, 158, 126);
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  section {
+    padding: 50px 20px;
+  }
+  
+  #hero {
+    background-color: rgb(50, 158, 126);
+    text-align: center;
+    color: #333;
+    font-size: 25px;
+
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: rgb(43, 150, 216);
+    color: aquamarine;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: rgb(19, 180, 201);
+  }
+  
+  .about {background-color: rgb(85,213,245); 
+    font-size: 25px
+  }
+  
+  .service {
+    margin-bottom: 30px;
+    text-align:center;
+    background-color:rgb(85, 213, 245);
+    font-size: 25px;
+  }
+
+  .contact, h2 {font-size: 35px;}
+  
+  footer {
+    background-color: #333;
+    color: rgb(43, 150, 216);
+    text-align: center;
+    padding: 20px;
+  }
+  label {display:block}
+ br {color: antiquewhite;}
+
+  
